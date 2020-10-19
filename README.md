@@ -1,4 +1,4 @@
-# Pi Calendar using E-paper display 
+# [Pi Calendar using E-paper display](https://jackzzhao.com/post/pi-calendar-using-e-paper-display/)
 
 This project is a digital calendar implemented with Raspberry Pi and Waveshare's
 2.7 inch e-Paper HAT display written in Python. The idea is to bring iCal/Google/iCloud
