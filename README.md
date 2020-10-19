@@ -8,7 +8,7 @@ calendar subscriptions to this tiny desktop device, and presented in a beautiful
 
 **Preview**
 <br>
-![img]()
+![img](./image.jpg)
 
 ### Requirements
 
